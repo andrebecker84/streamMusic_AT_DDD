@@ -13,60 +13,18 @@
 
 ## <img src="https://api.iconify.design/tabler/list-details.svg?color=%2394a3b8" height="18"> Índice
 
-<div align="center">
-<table align="center" width="760" style="border-radius: 10px; background-color: #1e1e30; border: 1px solid #30363d;">
-<tbody style="border:0;">
-  <tr style="border:0;">
-    <td style="border:0;padding:10px 6px 10px 14px;" align="center" width="3%"><code style="color:#71a1fe">01</code></td>
-    <td style="border:0;padding:10px 6px;" align="center" width="3%"><img src="https://api.iconify.design/tabler/layout-grid.svg?color=%2371a1fe" height="16" width="16"></td>
-    <td style="border:0;border-right:1px solid #30363d;padding:10px 6px 10px 2px;" width="44%"><a href="#-visão-geral"><span style="color:#71a1fe"><b>Visão Geral</b></span></a></td>
-    <td style="border:0;padding:10px 6px 10px 14px;" align="center" width="3%"><code style="color:#a78bfa">07</code></td>
-    <td style="border:0;padding:10px 6px;" align="center" width="3%"><img src="https://api.iconify.design/tabler/device-desktop.svg?color=%23a78bfa" height="16" width="16"></td>
-    <td style="border:0;padding:10px 6px;" width="44%"><a href="#-frontend"><span style="color:#a78bfa"><b>Frontend</b></span></a></td>
-  </tr>
-  <tr style="border:0;">
-    <td style="border:0;padding:10px 6px 10px 14px;" align="center"><code style="color:#71a1fe">02</code></td>
-    <td style="border:0;padding:10px 6px;" align="center"><img src="https://api.iconify.design/tabler/shield-check.svg?color=%2371a1fe" height="16" width="16"></td>
-    <td style="border:0;border-right:1px solid #30363d;padding:10px 6px 10px 2px;"><a href="#-regras-de-antifraude--strategy-pattern"><span style="color:#71a1fe"><b>Regras de Antifraude · Strategy Pattern</b></span></a></td>
-    <td style="border:0;padding:10px 6px 10px 14px;" align="center"><code style="color:#a78bfa">08</code></td>
-    <td style="border:0;padding:10px 6px;" align="center"><img src="https://api.iconify.design/tabler/api.svg?color=%23a78bfa" height="16" width="16"></td>
-    <td style="border:0;padding:10px 6px 10px 2px;"><a href="#-api-rest"><span style="color:#a78bfa"><b>API REST</b></span></a></td>
-  </tr>
-  <tr style="border:0;">
-    <td style="border:0;padding:10px 6px 10px 14px;" align="center"><code style="color:#71a1fe">03</code></td>
-    <td style="border:0;padding:10px 6px;" align="center"><img src="https://api.iconify.design/tabler/building-arch.svg?color=%2371a1fe" height="16" width="16"></td>
-    <td style="border:0;border-right:1px solid #30363d;padding:10px 6px 10px 2px;"><a href="#-arquitetura-ddd"><span style="color:#71a1fe"><b>Arquitetura DDD</b></span></a></td>
-    <td style="border:0;padding:10px 6px 10px 14px;" align="center"><code style="color:#c5f989">09</code></td>
-    <td style="border:0;padding:10px 6px;" align="center"><img src="https://api.iconify.design/tabler/test-pipe.svg?color=%23c5f989" height="16" width="16"></td>
-    <td style="border:0;padding:10px 6px 10px 2px;"><a href="#-testes"><span style="color:#c5f989"><b>Testes</b></span></a></td>
-  </tr>
-  <tr style="border:0;">
-    <td style="border:0;padding:10px 6px 10px 14px;" align="center"><code style="color:#71a1fe">04</code></td>
-    <td style="border:0;padding:10px 6px;" align="center"><img src="https://api.iconify.design/tabler/components.svg?color=%2371a1fe" height="16" width="16"></td>
-    <td style="border:0;border-right:1px solid #30363d;padding:10px 6px 10px 2px;"><a href="#-design-patterns"><span style="color:#71a1fe"><b>Design Patterns</b></span></a></td>
-    <td style="border:0;padding:10px 6px 10px 14px;" align="center"><code style="color:#ffc05c">10</code></td>
-    <td style="border:0;padding:10px 6px;" align="center"><img src="https://api.iconify.design/tabler/plug-connected.svg?color=%23ffc05c" height="16" width="16"></td>
-    <td style="border:0;padding:10px 6px 10px 2px;"><a href="#-clientes-http"><span style="color:#ffc05c"><b>Clientes HTTP</b></span></a></td>
-  </tr>
-  <tr style="border:0;">
-    <td style="border:0;padding:10px 6px 10px 14px;" align="center"><code style="color:#71a1fe">05</code></td>
-    <td style="border:0;padding:10px 6px;" align="center"><img src="https://api.iconify.design/tabler/stack-2.svg?color=%2371a1fe" height="16" width="16"></td>
-    <td style="border:0;border-right:1px solid #30363d;padding:10px 6px 10px 2px;"><a href="#-camadas"><span style="color:#71a1fe"><b>Camadas</b></span></a></td>
-    <td style="border:0;padding:10px 6px 10px 14px;" align="center"><code style="color:#ffc05c">11</code></td>
-    <td style="border:0;padding:10px 6px;" align="center"><img src="https://api.iconify.design/tabler/folder-open.svg?color=%23ffc05c" height="16" width="16"></td>
-    <td style="border:0;padding:10px 6px 10px 2px;"><a href="#-estrutura"><span style="color:#ffc05c"><b>Estrutura de Pastas</b></span></a></td>
-  </tr>
-  <tr style="border:0;">
-    <td style="border:0;padding:10px 6px 10px 14px;" align="center"><code style="color:#a78bfa">06</code></td>
-    <td style="border:0;padding:10px 6px;" align="center"><img src="https://api.iconify.design/tabler/player-play.svg?color=%23a78bfa" height="16" width="16"></td>
-    <td style="border:0;border-right:1px solid #30363d;padding:10px 6px 10px 2px;"><a href="#-como-executar"><span style="color:#a78bfa"><b>Como Executar</b></span></a></td>
-    <td style="border:0;padding:10px 6px 10px 14px;" align="center"><code style="color:#ffc05c">12</code></td>
-    <td style="border:0;padding:10px 6px;" align="center"><img src="https://api.iconify.design/tabler/book-2.svg?color=%23ffc05c" height="16" width="16"></td>
-    <td style="border:0;padding:10px 6px 10px 2px;"><a href="#-relatório-técnico"><span style="color:#ffc05c"><b>Relatório Técnico</b></span></a></td>
-  </tr>
-</tbody>
-</table>
-</div>
+<a href="#-visão-geral"><kbd>&nbsp;01&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/layout-grid.svg?color=%2371a1fe" height="14"> &nbsp;<a href="#-visão-geral"><b>Visão Geral</b></a><br>
+<a href="#-regras-de-antifraude--strategy-pattern"><kbd>&nbsp;02&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/shield-check.svg?color=%2371a1fe" height="14"> &nbsp;<a href="#-regras-de-antifraude--strategy-pattern"><b>Regras de Antifraude · Strategy Pattern</b></a><br>
+<a href="#-arquitetura-ddd"><kbd>&nbsp;03&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/building-arch.svg?color=%2371a1fe" height="14"> &nbsp;<a href="#-arquitetura-ddd"><b>Arquitetura DDD</b></a><br>
+<a href="#-design-patterns"><kbd>&nbsp;04&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/components.svg?color=%2371a1fe" height="14"> &nbsp;<a href="#-design-patterns"><b>Design Patterns</b></a><br>
+<a href="#-camadas"><kbd>&nbsp;05&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/stack-2.svg?color=%2371a1fe" height="14"> &nbsp;<a href="#-camadas"><b>Camadas</b></a><br>
+<a href="#-como-executar"><kbd>&nbsp;06&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/player-play.svg?color=%23a78bfa" height="14"> &nbsp;<a href="#-como-executar"><b>Como Executar</b></a><br>
+<a href="#-frontend"><kbd>&nbsp;07&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/device-desktop.svg?color=%23a78bfa" height="14"> &nbsp;<a href="#-frontend"><b>Frontend</b></a><br>
+<a href="#-api-rest"><kbd>&nbsp;08&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/api.svg?color=%23a78bfa" height="14"> &nbsp;<a href="#-api-rest"><b>API REST</b></a><br>
+<a href="#-testes"><kbd>&nbsp;09&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/test-pipe.svg?color=%23c5f989" height="14"> &nbsp;<a href="#-testes"><b>Testes</b></a><br>
+<a href="#-clientes-http"><kbd>&nbsp;10&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/plug-connected.svg?color=%23ffc05c" height="14"> &nbsp;<a href="#-clientes-http"><b>Clientes HTTP</b></a><br>
+<a href="#-estrutura"><kbd>&nbsp;11&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/folder-open.svg?color=%23ffc05c" height="14"> &nbsp;<a href="#-estrutura"><b>Estrutura de Pastas</b></a><br>
+<a href="#-relatório-técnico"><kbd>&nbsp;12&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/book-2.svg?color=%23ffc05c" height="14"> &nbsp;<a href="#-relatório-técnico"><b>Relatório Técnico</b></a>
 
 ---
 
@@ -92,8 +50,7 @@
 
 ## <img src="https://api.iconify.design/tabler/shield-check.svg?color=%2371a1fe" height="18"> Regras de Antifraude — Strategy Pattern
 
-<div align="center">
-<table align="center" width="760" style="border-radius: 10px;">
+<table width="760" style="border-radius: 10px;">
 <thead style="background-color: #0d1117;">
 <tr>
   <th align="center" width="36%">Código de Violação</th>
@@ -129,7 +86,6 @@
 </tr>
 </tbody>
 </table>
-</div>
 
 > <img src="https://api.iconify.design/tabler/bulb.svg?color=%23ffc05c" height="14"> **OCP em ação:** adicionar nova regra = criar `@Component implements RegraAntifraude`. O `ServicoAntifraude` nunca é modificado.
 
@@ -209,7 +165,7 @@ graph TB
 
 ### Aggregates & Value Objects
 
-<table align="center" width="760" style="border-radius: 10px;">
+<table width="760" style="border-radius: 10px;">
 <thead style="background-color: #0d1117;">
 <tr><th>Aggregate Root</th><th>Value Objects / Filhos</th></tr>
 </thead>
@@ -234,8 +190,7 @@ graph TB
 
 ## <img src="https://api.iconify.design/tabler/stack-2.svg?color=%2371a1fe" height="18"> Camadas
 
-<div align="center">
-<table align="center" width="760" style="border-radius: 10px;">
+<table width="760" style="border-radius: 10px;">
 <thead style="background-color: #0d1117;">
 <tr><th width="22%">Camada</th><th width="30%">Pacote</th><th width="48%">Responsabilidade</th></tr>
 </thead>
@@ -250,7 +205,6 @@ graph TB
 <tr><td><img src="https://api.iconify.design/tabler/repeat.svg?color=%2371a1fe" height="14"> Strategy</td><td><code>domain/transaction/fraud/</code></td><td>Interface + 5 regras <code>@Component @Order</code></td></tr>
 </tbody>
 </table>
-</div>
 
 > <img src="https://api.iconify.design/tabler/alert-triangle.svg?color=%23ffc05c" height="14"> `domain/` nunca importa de `infrastructure/` ou `interfaces/`. Dependências apontam sempre para dentro.
 
@@ -264,8 +218,7 @@ graph TB
 
 ### <img src="https://api.iconify.design/tabler/link.svg?color=%23a78bfa" height="16"> URLs
 
-<div align="center">
-<table align="center" width="760" style="border-radius: 10px;">
+<table width="760" style="border-radius: 10px;">
 <thead style="background-color: #0d1117;">
 <tr><th width="38%">URL</th><th width="62%">Descrição</th></tr>
 </thead>
@@ -277,14 +230,12 @@ graph TB
 <tr><td><a href="http://localhost:8081"><kbd>http://localhost:8081</kbd></a></td><td><img src="https://api.iconify.design/tabler/server.svg?color=%23f87171" height="14"> Redis Commander <em>(somente Docker)</em></td></tr>
 </tbody>
 </table>
-</div>
 
 ### <img src="https://api.iconify.design/tabler/users.svg?color=%2371a1fe" height="16"> Contas Demo
 
 Criadas automaticamente ao iniciar — prontas para testar os cenários de antifraude:
 
-<div align="center">
-<table align="center" width="760" style="border-radius: 10px;">
+<table width="760" style="border-radius: 10px;">
 <thead style="background-color: #0d1117;">
 <tr><th width="15%">Conta</th><th width="22%">Número do Cartão</th><th width="10%" align="center">Cartão</th><th width="10%">Plano</th><th width="43%">Cenário de Teste</th></tr>
 </thead>
@@ -294,7 +245,6 @@ Criadas automaticamente ao iniciar — prontas para testar os cenários de antif
 <tr><td><img src="https://api.iconify.design/tabler/user.svg?color=%2371a1fe" height="14"> Pedro Santos</td><td><code>3714-496353-98431</code></td><td align="center"><img src="https://img.shields.io/badge/INATIVO-f93e3e"/></td><td align="center" style="white-space:nowrap"><kbd><img src="https://api.iconify.design/tabler/ban.svg?color=%234a5568" height="13"> sem plano</kbd></td><td><code>cartão-não-ativo</code> + <code>plano-ativo-inválido</code></td></tr>
 </tbody>
 </table>
-</div>
 
 ---
 
@@ -302,7 +252,7 @@ Criadas automaticamente ao iniciar — prontas para testar os cenários de antif
 
 <kbd>http://localhost:8087</kbd> — SPA dark-theme embutida no artefato Spring Boot (sem frameworks JS separados)
 
-<table align="center" width="760" style="border-radius: 10px;">
+<table width="760" style="border-radius: 10px;">
 <thead style="background-color: #0d1117;">
 <tr><th>Aba</th><th>Funcionalidades</th></tr>
 </thead>
@@ -322,7 +272,7 @@ Criadas automaticamente ao iniciar — prontas para testar os cenários de antif
 
 ### <img src="https://api.iconify.design/tabler/user.svg?color=%23a78bfa" height="16"> Contas
 
-<table align="center" width="760" style="border-radius: 10px;">
+<table width="760" style="border-radius: 10px;">
 <thead style="background-color: #0d1117;">
 <tr><th>Método</th><th>Endpoint</th><th>Ação</th></tr>
 </thead>
@@ -335,7 +285,7 @@ Criadas automaticamente ao iniciar — prontas para testar os cenários de antif
 
 ### <img src="https://api.iconify.design/tabler/clipboard-list.svg?color=%23a78bfa" height="16"> Assinaturas
 
-<table align="center" width="760" style="border-radius: 10px;">
+<table width="760" style="border-radius: 10px;">
 <thead style="background-color: #0d1117;">
 <tr><th>Método</th><th>Endpoint</th><th>Ação</th></tr>
 </thead>
@@ -348,7 +298,7 @@ Criadas automaticamente ao iniciar — prontas para testar os cenários de antif
 
 ### <img src="https://api.iconify.design/tabler/credit-card.svg?color=%23a78bfa" height="16"> Transações
 
-<table align="center" width="760" style="border-radius: 10px;">
+<table width="760" style="border-radius: 10px;">
 <thead style="background-color: #0d1117;">
 <tr><th>Método</th><th>Endpoint</th><th>Ação</th></tr>
 </thead>
@@ -359,7 +309,7 @@ Criadas automaticamente ao iniciar — prontas para testar os cenários de antif
 
 ### <img src="https://api.iconify.design/tabler/music.svg?color=%23a78bfa" height="16"> Músicas, Favoritos e Playlists
 
-<table align="center" width="760" style="border-radius: 10px;">
+<table width="760" style="border-radius: 10px;">
 <thead style="background-color: #0d1117;">
 <tr><th>Método</th><th>Endpoint</th><th>Ação</th></tr>
 </thead>
@@ -378,20 +328,22 @@ Criadas automaticamente ao iniciar — prontas para testar os cenários de antif
 <details>
 <summary><img src="https://api.iconify.design/tabler/terminal.svg?color=%23a78bfa" height="14"> Exemplos cURL</summary>
 
-<table style="background:#0d1117;border:1px solid #30363d;border-radius:8px;border-collapse:separate;width:100%;font-family:monospace;font-size:11px;line-height:1.6;margin:8px 0;">
-<tr><td style="border:0;padding:10px 16px 2px 16px;color:#6b7280;"># Criar conta</td></tr>
-<tr><td style="border:0;padding:0 16px;color:#c9d1d9;">curl -X POST http://localhost:8087/api/contas \</td></tr>
-<tr><td style="border:0;padding:0 16px;color:#c9d1d9;">&nbsp;&nbsp;-H "Content-Type: application/json" \</td></tr>
-<tr><td style="border:0;padding:0 16px 8px 16px;color:#c9d1d9;">&nbsp;&nbsp;-d '{"nome":"João","email":"joao@ex.com","numeroCartao":"4111","cartaoAtivo":true,"limiteCartao":5000}'</td></tr>
-<tr><td style="border:0;padding:8px 16px 2px 16px;color:#6b7280;"># Assinar plano</td></tr>
-<tr><td style="border:0;padding:0 16px;color:#c9d1d9;">curl -X POST http://localhost:8087/api/assinaturas \</td></tr>
-<tr><td style="border:0;padding:0 16px;color:#c9d1d9;">&nbsp;&nbsp;-H "Content-Type: application/json" \</td></tr>
-<tr><td style="border:0;padding:0 16px 8px 16px;color:#c9d1d9;">&nbsp;&nbsp;-d '{"contaId":"&lt;UUID&gt;","tipoPlano":"PREMIUM"}'</td></tr>
-<tr><td style="border:0;padding:8px 16px 2px 16px;color:#6b7280;"># Autorizar transação</td></tr>
-<tr><td style="border:0;padding:0 16px;color:#c9d1d9;">curl -X POST http://localhost:8087/api/transacoes/autorizar \</td></tr>
-<tr><td style="border:0;padding:0 16px;color:#c9d1d9;">&nbsp;&nbsp;-H "Content-Type: application/json" \</td></tr>
-<tr><td style="border:0;padding:0 16px 10px 16px;color:#c9d1d9;">&nbsp;&nbsp;-d '{"contaId":"&lt;UUID&gt;","valor":99.90,"nomeComercio":"StreamStore"}'</td></tr>
-</table>
+```bash
+# Criar conta
+curl -X POST http://localhost:8087/api/contas \
+  -H "Content-Type: application/json" \
+  -d '{"nome":"João","email":"joao@ex.com","numeroCartao":"4111","cartaoAtivo":true,"limiteCartao":5000}'
+
+# Assinar plano
+curl -X POST http://localhost:8087/api/assinaturas \
+  -H "Content-Type: application/json" \
+  -d '{"contaId":"<UUID>","tipoPlano":"PREMIUM"}'
+
+# Autorizar transação
+curl -X POST http://localhost:8087/api/transacoes/autorizar \
+  -H "Content-Type: application/json" \
+  -d '{"contaId":"<UUID>","valor":99.90,"nomeComercio":"StreamStore"}'
+```
 
 </details>
 
@@ -415,7 +367,7 @@ Criadas automaticamente ao iniciar — prontas para testar os cenários de antif
 
 Metodologia **AAA (Arrange / Act / Assert)** — `// Act & Assert` somente em `assertThatThrownBy`, onde Act e Assert são inseparáveis por natureza.
 
-<table align="center" width="760" style="border-radius: 10px;">
+<table width="760" style="border-radius: 10px;">
 <thead style="background-color: #0d1117;">
 <tr>
   <th align="center" width="34%">Classe de Teste</th>
@@ -490,8 +442,7 @@ Metodologia **AAA (Arrange / Act / Assert)** — `// Act & Assert` somente em `a
 
 ## <img src="https://api.iconify.design/tabler/plug-connected.svg?color=%23ffc05c" height="18"> Clientes HTTP
 
-<div align="center">
-<table align="center" width="760" style="border-radius: 10px;">
+<table width="760" style="border-radius: 10px;">
 <thead style="background-color: #0d1117;">
     <tr>
         <th align="center" width="50%"><img src="https://img.shields.io/badge/IntelliJ-HTTP Client-purple?logo=jetbrains" alt="IntelliJ HTTP Client"/></th>
@@ -543,7 +494,6 @@ Metodologia **AAA (Arrange / Act / Assert)** — `// Act & Assert` somente em `a
 </tr>
 </tbody>
 </table>
-</div>
 
 ---
 
