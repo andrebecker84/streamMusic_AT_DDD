@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=220&section=header&text=&#9834%20StreamMusic&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=DDD%20%7C%20Strategy%20Pattern%20%7C%20SOLID&descAlignY=60&descSize=16&descColor=e0e7ff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=220&section=header&text=%E2%99%AA%20StreamMusic&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=DDD%20%7C%20Strategy%20Pattern%20%7C%20SOLID&descAlignY=60&descSize=16&descColor=e0e7ff)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=Plataforma+de+Streaming+de+Musica;Domain-Driven+Design+%7C+4+Bounded+Contexts;Strategy+Pattern+%7C+5+Regras+Antifraude;SOLID+%7C+Clean+Code+%7C+31+Testes+Passando)](https://git.io/typing-svg)
 
 <a href="https://github.com/andrebecker84"><img src="doc/images/card-github.svg" height="48" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/becker84"><img src="doc/images/card-linkedin.svg" height="48" alt="LinkedIn"></a>
