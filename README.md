@@ -13,18 +13,18 @@
 
 ## <img src="https://api.iconify.design/tabler/list-details.svg?color=%2394a3b8" height="18"> Índice
 
-<a href="#-visão-geral"><kbd>&nbsp;01&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/layout-grid.svg?color=%2371a1fe" height="14"> &nbsp;<a href="#-visão-geral"><b>Visão Geral</b></a><br>
-<a href="#-regras-de-antifraude--strategy-pattern"><kbd>&nbsp;02&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/shield-check.svg?color=%2371a1fe" height="14"> &nbsp;<a href="#-regras-de-antifraude--strategy-pattern"><b>Regras de Antifraude · Strategy Pattern</b></a><br>
-<a href="#-arquitetura-ddd"><kbd>&nbsp;03&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/building-arch.svg?color=%2371a1fe" height="14"> &nbsp;<a href="#-arquitetura-ddd"><b>Arquitetura DDD</b></a><br>
-<a href="#-design-patterns"><kbd>&nbsp;04&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/components.svg?color=%2371a1fe" height="14"> &nbsp;<a href="#-design-patterns"><b>Design Patterns</b></a><br>
-<a href="#-camadas"><kbd>&nbsp;05&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/stack-2.svg?color=%2371a1fe" height="14"> &nbsp;<a href="#-camadas"><b>Camadas</b></a><br>
-<a href="#-como-executar"><kbd>&nbsp;06&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/player-play.svg?color=%23a78bfa" height="14"> &nbsp;<a href="#-como-executar"><b>Como Executar</b></a><br>
-<a href="#-frontend"><kbd>&nbsp;07&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/device-desktop.svg?color=%23a78bfa" height="14"> &nbsp;<a href="#-frontend"><b>Frontend</b></a><br>
-<a href="#-api-rest"><kbd>&nbsp;08&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/api.svg?color=%23a78bfa" height="14"> &nbsp;<a href="#-api-rest"><b>API REST</b></a><br>
-<a href="#-testes"><kbd>&nbsp;09&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/test-pipe.svg?color=%23c5f989" height="14"> &nbsp;<a href="#-testes"><b>Testes</b></a><br>
-<a href="#-clientes-http"><kbd>&nbsp;10&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/plug-connected.svg?color=%23ffc05c" height="14"> &nbsp;<a href="#-clientes-http"><b>Clientes HTTP</b></a><br>
-<a href="#-estrutura"><kbd>&nbsp;11&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/folder-open.svg?color=%23ffc05c" height="14"> &nbsp;<a href="#-estrutura"><b>Estrutura de Pastas</b></a><br>
-<a href="#-relatório-técnico"><kbd>&nbsp;12&nbsp;</kbd></a> &nbsp;<img src="https://api.iconify.design/tabler/book-2.svg?color=%23ffc05c" height="14"> &nbsp;<a href="#-relatório-técnico"><b>Relatório Técnico</b></a>
+<a href="#-visão-geral"><kbd>&nbsp;01&nbsp;&nbsp;<img src="https://api.iconify.design/tabler/layout-grid.svg?color=%2371a1fe" height="13">&nbsp;&nbsp;<font color="#71a1fe"><b>Visão Geral</b></font>&nbsp;</kbd></a><br><br>
+<a href="#-regras-de-antifraude--strategy-pattern"><kbd>&nbsp;02&nbsp;&nbsp;<img src="https://api.iconify.design/tabler/shield-check.svg?color=%2371a1fe" height="13">&nbsp;&nbsp;<font color="#71a1fe"><b>Regras de Antifraude · Strategy Pattern</b></font>&nbsp;</kbd></a><br><br>
+<a href="#-arquitetura-ddd"><kbd>&nbsp;03&nbsp;&nbsp;<img src="https://api.iconify.design/tabler/building-arch.svg?color=%2371a1fe" height="13">&nbsp;&nbsp;<font color="#71a1fe"><b>Arquitetura DDD</b></font>&nbsp;</kbd></a><br><br>
+<a href="#-design-patterns"><kbd>&nbsp;04&nbsp;&nbsp;<img src="https://api.iconify.design/tabler/components.svg?color=%2371a1fe" height="13">&nbsp;&nbsp;<font color="#71a1fe"><b>Design Patterns</b></font>&nbsp;</kbd></a><br><br>
+<a href="#-camadas"><kbd>&nbsp;05&nbsp;&nbsp;<img src="https://api.iconify.design/tabler/stack-2.svg?color=%2371a1fe" height="13">&nbsp;&nbsp;<font color="#71a1fe"><b>Camadas</b></font>&nbsp;</kbd></a><br><br>
+<a href="#-como-executar"><kbd>&nbsp;06&nbsp;&nbsp;<img src="https://api.iconify.design/tabler/player-play.svg?color=%23a78bfa" height="13">&nbsp;&nbsp;<font color="#a78bfa"><b>Como Executar</b></font>&nbsp;</kbd></a><br><br>
+<a href="#-frontend"><kbd>&nbsp;07&nbsp;&nbsp;<img src="https://api.iconify.design/tabler/device-desktop.svg?color=%23a78bfa" height="13">&nbsp;&nbsp;<font color="#a78bfa"><b>Frontend</b></font>&nbsp;</kbd></a><br><br>
+<a href="#-api-rest"><kbd>&nbsp;08&nbsp;&nbsp;<img src="https://api.iconify.design/tabler/api.svg?color=%23a78bfa" height="13">&nbsp;&nbsp;<font color="#a78bfa"><b>API REST</b></font>&nbsp;</kbd></a><br><br>
+<a href="#-testes"><kbd>&nbsp;09&nbsp;&nbsp;<img src="https://api.iconify.design/tabler/test-pipe.svg?color=%23c5f989" height="13">&nbsp;&nbsp;<font color="#c5f989"><b>Testes</b></font>&nbsp;</kbd></a><br><br>
+<a href="#-clientes-http"><kbd>&nbsp;10&nbsp;&nbsp;<img src="https://api.iconify.design/tabler/plug-connected.svg?color=%23ffc05c" height="13">&nbsp;&nbsp;<font color="#ffc05c"><b>Clientes HTTP</b></font>&nbsp;</kbd></a><br><br>
+<a href="#-estrutura"><kbd>&nbsp;11&nbsp;&nbsp;<img src="https://api.iconify.design/tabler/folder-open.svg?color=%23ffc05c" height="13">&nbsp;&nbsp;<font color="#ffc05c"><b>Estrutura de Pastas</b></font>&nbsp;</kbd></a><br><br>
+<a href="#-relatório-técnico"><kbd>&nbsp;12&nbsp;&nbsp;<img src="https://api.iconify.design/tabler/book-2.svg?color=%23ffc05c" height="13">&nbsp;&nbsp;<font color="#ffc05c"><b>Relatório Técnico</b></font>&nbsp;</kbd></a>
 
 ---
 
