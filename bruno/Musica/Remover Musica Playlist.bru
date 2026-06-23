@@ -1,0 +1,11 @@
+meta {
+  name: Remover Musica da Playlist
+  type: http
+  seq: 8
+}
+
+delete {
+  url: {{baseUrl}}/api/contas/{{contaId}}/playlists/{{playlistId}}/musicas/{{musicaId}}
+  body: none
+  auth: none
+}

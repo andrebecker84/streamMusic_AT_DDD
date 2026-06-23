@@ -1,0 +1,48 @@
+### 03 — Autorizar Transação (deve ser aprovada — conta com plano e cartão ativo)
+# Pré-requisito: executar 01 e 02 para criar conta com plano ativo
+POST {{baseUrl}}/api/transacoes/autorizar
+Content-Type: application/json
+
+{
+  "contaId": "{{contaId}}",
+  "valor": 29.90,
+  "nomeComercio": "StreamStore"
+}
+
+###
+
+### 03b — Regra: cartão-não-ativo (conta com cartão inativo)
+POST {{baseUrl}}/api/transacoes/autorizar
+Content-Type: application/json
+
+{
+  "contaId": "{{contaIdInativa}}",
+  "valor": 10.00,
+  "nomeComercio": "CinemaPlus"
+}
+
+###
+
+### 03c — Regra: alta-frequência-pequeno-intervalo
+# Execute esta requisição 4 vezes rapidamente (em menos de 2 minutos)
+POST {{baseUrl}}/api/transacoes/autorizar
+Content-Type: application/json
+
+{
+  "contaId": "{{contaId}}",
+  "valor": 5.00,
+  "nomeComercio": "FoodApp"
+}
+
+###
+
+### 03d — Regra: transação-duplicada
+# Execute esta requisição 3 vezes (mesmo valor + mesmo comércio)
+POST {{baseUrl}}/api/transacoes/autorizar
+Content-Type: application/json
+
+{
+  "contaId": "{{contaId}}",
+  "valor": 99.90,
+  "nomeComercio": "MegaStore"
+}

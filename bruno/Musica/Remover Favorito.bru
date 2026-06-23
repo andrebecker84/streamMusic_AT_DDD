@@ -1,0 +1,11 @@
+meta {
+  name: Remover Favorito
+  type: http
+  seq: 4
+}
+
+delete {
+  url: {{baseUrl}}/api/contas/{{contaId}}/favoritos/{{musicaId}}
+  body: none
+  auth: none
+}

@@ -1,0 +1,31 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+.DS_Store
+.idea/
+*.iml
+*.iws
+*.ipr
+.settings/
+.project
+.classpath
+.factorypath
+*.swp
+*~
+
+# Environment
+.env
+*.env
+application-local.properties
+application-secret.properties
+
+# Credentials
+credentials.json
+secrets/
+
+# CLAUDE
+CLAUDE.md
+.claude/

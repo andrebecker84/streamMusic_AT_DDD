@@ -1,0 +1,3 @@
+### 04 — Listar Catálogo de Músicas
+# Resultado é cacheado (Redis quando ativo, ou in-memory)
+GET {{baseUrl}}/api/musicas

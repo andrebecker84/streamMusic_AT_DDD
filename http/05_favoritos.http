@@ -1,0 +1,28 @@
+### 05 — Favoritar Música
+# Copie um ID de música do resultado de 04_musicas.http
+POST {{baseUrl}}/api/contas/{{contaId}}/favoritos
+Content-Type: application/json
+
+{
+  "musicaId": "{{musicaId}}"
+}
+
+###
+
+### 05b — Listar Favoritos
+GET {{baseUrl}}/api/contas/{{contaId}}/favoritos
+
+###
+
+### 05c — Remover Favorito
+DELETE {{baseUrl}}/api/contas/{{contaId}}/favoritos/{{musicaId}}
+
+###
+
+### 05d — Erro: favoritar a mesma música duas vezes (deve retornar 422)
+POST {{baseUrl}}/api/contas/{{contaId}}/favoritos
+Content-Type: application/json
+
+{
+  "musicaId": "{{musicaId}}"
+}

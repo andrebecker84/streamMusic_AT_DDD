@@ -1,0 +1,44 @@
+### 06 — Criar Playlist
+POST {{baseUrl}}/api/contas/{{contaId}}/playlists
+Content-Type: application/json
+
+{
+  "nome": "Minha Playlist Top"
+}
+
+> {%
+  client.global.set("playlistId", response.body.id);
+  client.log("Playlist criada: " + response.body.id);
+%}
+
+###
+
+### 06b — Listar Playlists da Conta
+GET {{baseUrl}}/api/contas/{{contaId}}/playlists
+
+###
+
+### 06c — Adicionar Música na Playlist
+POST {{baseUrl}}/api/playlists/{{playlistId}}/musicas
+Content-Type: application/json
+
+{
+  "contaId": "{{contaId}}",
+  "musicaId": "{{musicaId}}"
+}
+
+###
+
+### 06d — Erro: adicionar a mesma música duas vezes (deve retornar 422)
+POST {{baseUrl}}/api/playlists/{{playlistId}}/musicas
+Content-Type: application/json
+
+{
+  "contaId": "{{contaId}}",
+  "musicaId": "{{musicaId}}"
+}
+
+###
+
+### 06e — Remover Música da Playlist
+DELETE {{baseUrl}}/api/contas/{{contaId}}/playlists/{{playlistId}}/musicas/{{musicaId}}

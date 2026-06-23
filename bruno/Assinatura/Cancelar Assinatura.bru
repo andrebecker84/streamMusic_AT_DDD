@@ -1,0 +1,11 @@
+meta {
+  name: Cancelar Assinatura
+  type: http
+  seq: 3
+}
+
+delete {
+  url: {{baseUrl}}/api/assinaturas/contas/{{contaId}}
+  body: none
+  auth: none
+}

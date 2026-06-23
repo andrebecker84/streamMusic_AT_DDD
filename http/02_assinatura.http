@@ -1,0 +1,29 @@
+### 02 — Assinar Plano PREMIUM
+POST {{baseUrl}}/api/assinaturas
+Content-Type: application/json
+
+{
+  "contaId": "{{contaId}}",
+  "tipoPlano": "PREMIUM"
+}
+
+###
+
+### 02b — Consultar Assinatura Ativa
+GET {{baseUrl}}/api/assinaturas/contas/{{contaId}}/ativa
+
+###
+
+### 02c — Erro: tentar assinar novamente com plano ativo (deve retornar 422)
+POST {{baseUrl}}/api/assinaturas
+Content-Type: application/json
+
+{
+  "contaId": "{{contaId}}",
+  "tipoPlano": "BASICO"
+}
+
+###
+
+### 02d — Cancelar Assinatura
+DELETE {{baseUrl}}/api/assinaturas/contas/{{contaId}}

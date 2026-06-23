@@ -1,0 +1,17 @@
+meta {
+  name: Favoritar Musica
+  type: http
+  seq: 2
+}
+
+post {
+  url: {{baseUrl}}/api/contas/{{contaId}}/favoritos
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "musicaId": "{{musicaId}}"
+  }
+}

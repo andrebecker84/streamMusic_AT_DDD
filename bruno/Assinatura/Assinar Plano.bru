@@ -1,0 +1,18 @@
+meta {
+  name: Assinar Plano
+  type: http
+  seq: 1
+}
+
+post {
+  url: {{baseUrl}}/api/assinaturas
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "contaId": "{{contaId}}",
+    "tipoPlano": "PREMIUM"
+  }
+}

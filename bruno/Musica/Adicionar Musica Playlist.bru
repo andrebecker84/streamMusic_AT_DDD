@@ -1,0 +1,17 @@
+meta {
+  name: Adicionar Musica na Playlist
+  type: http
+  seq: 7
+}
+
+post {
+  url: {{baseUrl}}/api/playlists/{{playlistId}}/musicas
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "musicaId": "{{musicaId}}"
+  }
+}

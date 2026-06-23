@@ -1,0 +1,53 @@
+### 01 — Criar Conta (João Silva, cartão ativo, plano PREMIUM)
+POST {{baseUrl}}/api/contas
+Content-Type: application/json
+
+{
+  "nome": "João Silva",
+  "email": "joao@exemplo.com",
+  "numeroCartao": "4111-1111-1111-1111",
+  "cartaoAtivo": true,
+  "limiteCartao": 5000.00
+}
+
+> {%
+  client.global.set("contaId", response.body.id);
+  client.log("Conta criada: " + response.body.id);
+%}
+
+###
+
+### 01b — Criar Conta (Pedro Santos, cartão INATIVO — para testar antifraude)
+POST {{baseUrl}}/api/contas
+Content-Type: application/json
+
+{
+  "nome": "Pedro Santos",
+  "email": "pedro@exemplo.com",
+  "numeroCartao": "3714-496353-98431",
+  "cartaoAtivo": false,
+  "limiteCartao": 2000.00
+}
+
+> {%
+  client.global.set("contaIdInativa", response.body.id);
+%}
+
+###
+
+### 01c — Buscar Conta por ID
+GET {{baseUrl}}/api/contas/{{contaId}}
+
+###
+
+### 01d — Erro: e-mail duplicado (deve retornar 422)
+POST {{baseUrl}}/api/contas
+Content-Type: application/json
+
+{
+  "nome": "Outro João",
+  "email": "joao@exemplo.com",
+  "numeroCartao": "9999-9999-9999-9999",
+  "cartaoAtivo": true,
+  "limiteCartao": 1000.00
+}

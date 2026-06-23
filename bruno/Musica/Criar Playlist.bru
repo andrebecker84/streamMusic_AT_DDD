@@ -1,0 +1,23 @@
+meta {
+  name: Criar Playlist
+  type: http
+  seq: 5
+}
+
+post {
+  url: {{baseUrl}}/api/contas/{{contaId}}/playlists
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "nome": "Minhas Favoritas"
+  }
+}
+
+script:post-response {
+  if (res.status === 201) {
+    bru.setEnvVar("playlistId", res.body.id);
+  }
+}

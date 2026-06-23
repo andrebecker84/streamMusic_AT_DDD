@@ -1,0 +1,27 @@
+meta {
+  name: Criar Conta
+  type: http
+  seq: 1
+}
+
+post {
+  url: {{baseUrl}}/api/contas
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "nome": "João Silva",
+    "email": "joao@example.com",
+    "numeroCartao": "4111-1111-1111-1111",
+    "cartaoAtivo": true,
+    "limiteCartao": 5000
+  }
+}
+
+script:post-response {
+  if (res.status === 201) {
+    bru.setEnvVar("contaId", res.body.id);
+  }
+}
