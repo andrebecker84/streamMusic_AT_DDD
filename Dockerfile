@@ -3,10 +3,10 @@ WORKDIR /app
 COPY pom.xml .
 RUN mvn dependency:go-offline -q
 COPY src ./src
-RUN mvn package -DskipTests -q
+RUN mvn package -DskipTests -q && mv target/streaming-musica-*.jar target/app.jar
 
 FROM eclipse-temurin:25-jre-alpine
 WORKDIR /app
-COPY --from=build /app/target/streaming-musica-*.jar app.jar
+COPY --from=build /app/target/app.jar app.jar
 EXPOSE 8087
 ENTRYPOINT ["java", "-jar", "app.jar"]
